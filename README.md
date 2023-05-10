@@ -6,9 +6,9 @@ Esse repositório, constantemente será aprimorado e atualizado. Visto a naturez
 
 ### Screenshot
 
-![Minha tela - Desktop - 1](./screenshot/Screenshot_1.png)
-![Minha tela - Desktop - 2](./screenshot/Screenshot_2.png)
-![Minha tela - Desktop - 3](./screenshot/Screenshot_3.png)
+![Minha tela - Desktop - 1](./screenshots/Screenshot_1.png)
+![Minha tela - Desktop - 2](./screenshots/Screenshot_2.png)
+![Minha tela - Desktop - 3](./screenshots/Screenshot_3.png)
 
 # Recursos úteis:
 - [Bedimcode](https://www.youtube.com/watch?v=27JtRAI3QO8)
